@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <h2 align="center">
   🛡️ Ciberseguridad · 💻 Sistemas · 🌐 Infraestructura
 </h2>
-
+<!--
 <p align="center">
   <a href="https://www.linkedin.com/in/TU-USUARIO/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
@@ -33,7 +33,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
 </p>
-
+-->
 ---
 
 ## 👨‍💻 Sobre mí
