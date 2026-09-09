@@ -34,8 +34,6 @@ Here are some ideas to get you started:
   </a>
 </p>
 -->
----
-
 ## 👨‍💻 Sobre mí
 
 Profesional de IT con más de **20 años de experiencia** en el sector,
